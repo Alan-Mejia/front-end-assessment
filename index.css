@@ -1,0 +1,32 @@
+.align{
+    margin: auto 20%;
+}
+body{
+    background-color: black;
+    color: white;
+}
+h4{
+    color: yellow;
+}
+p{
+    font-size: 20px;
+}
+.borders{
+    border-bottom: 1px solid white;
+}
+.tabla{
+    border: 2px solid rgb(255, 255, 255);
+    margin: 0 auto;
+    justify-content: space-around;
+    text-align: center;
+}
+.titulo{
+    font-size: 25px;
+}
+.contenido{
+    width: 100%;
+}
+.imageFlag{
+    width: 100%;
+    
+}
